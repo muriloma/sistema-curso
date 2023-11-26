@@ -1,0 +1,28 @@
+{
+  "name": "sistema-curso",
+  "version": "1.0.0",
+  "description": "Sistema básico para cadastro de cursos, alunos e disciplinas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriloma/sistema-curso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muriloma/sistema-curso/issues"
+  },
+  "homepage": "https://github.com/muriloma/sistema-curso#readme",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.1"
+  }
+}
